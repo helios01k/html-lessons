@@ -1,0 +1,16 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding: 12px;
+    background-color: gray;
+    border-radius: 12px;
+    border-style: double;
+}
+
+/* for top image */
+
+#heading-image { 
+    width: 75%;
+}
