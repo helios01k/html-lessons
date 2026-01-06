@@ -5,9 +5,22 @@
 
 /* for top image */
 
-.menu a {
+.menu a, p {
     display: inline;
 }
+
+.emergency_alert { 
+    background-color: red;
+    padding: 1px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.emergency_alert h1, h2, h3, h4, h5, p { 
+    padding-left: 10px;
+}
+
 
 .upperbox {
     background-color: yellow;
@@ -18,9 +31,37 @@
     -webkit-text-fill-color: red;
 }
 
-div {
+.navbar {
+    background-color: black;
+    padding: 1px;
+    border-radius: 6px;
+    border-color: white;
+}
+
+.navbar a {
+    color: black;
+    background-color: white;
+    padding: 1px;
+}
+
+.navbar p {
+    color: white;
+    margin-left: -20px;
+    padding-right: 20px;
+}
+
+/* links */
+a { 
+    color: white
+}
+
+.general_info {
     background-color: grey;
     padding: 1px;
     border-radius: 6px;
     border-color: white;
+}
+
+.general_info h1, p  {
+    padding-left: 10px;
 }
