@@ -3,9 +3,17 @@
     background-color: #004ece;
 }
 
+h1 {
+    padding-left: 5px;
+}
+
+p {
+    padding-left: 5px;
+}
+
 /* for top image */
 
-.menu a, p {
+.menu a, .menu p {
     display: inline;
 }
 
