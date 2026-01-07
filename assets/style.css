@@ -38,6 +38,11 @@
     padding-left: 10px;
 }
 
+.general_info img {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
 .hse-contacts {
     background-color: white;
     padding: 10px;
